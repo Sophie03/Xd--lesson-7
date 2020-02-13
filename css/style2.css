@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Xd</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<section class="section">
+		<h1 class="main-title"> პოპულარული სტატიები</h1>
+		<div class="container">
+			<div class="box">
+				<div class="box-wraper">
+					<img class="picture" src="image/picture.png" alt="picture">
+					<h2 class="title">სტატიის სათაური</h2>
+					<p class="text">ამ სტატიასაც სჭირდება აღწერა, ამიტომ ეს ველი 
+	                დაეთმობა ამ სტატიის მოკლე აღწერას </p>
+ 				</div>
+				<p> more</p>
+			</div>
+			<div class="box">
+				<div class="box-wraper">
+					<img class="picture" src="image/picture.png" alt="picture">
+					<h2 class="title">სტატიის სათაური</h2>
+					<p class="text">ამ სტატიასაც სჭირდება აღწერა, ამიტომ ეს ველი 
+	                დაეთმობა ამ სტატიის მოკლე აღწერას </p>
+ 				</div>
+				<p> more</p>
+			</div>
+			<div class="box">
+				<div class="box-wraper">
+					<img class="picture" src="image/picture.png" alt="picture">
+					<h2 class="title">სტატიის სათაური</h2>
+					<p class="text">ამ სტატიასაც სჭირდება აღწერა, ამიტომ ეს ველი 
+	                დაეთმობა ამ სტატიის მოკლე აღწერას </p>
+ 				</div>
+				<p> more</p>
+		</div>
+	</div>
+	</section>
+</body>
+</html>
