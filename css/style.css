@@ -4,38 +4,32 @@ html, body{
 	height:100%;
 }
 body{
-	padding:2%;
-	padding-top:0;
+	padding:5%;
+	padding-top:2%;
 }
-
-.section {
-	width: 1170px;
-	height: 100%;
-}
-.container{
+.header{
 	display: flex;
-}
-.title{
-	margin-top: 20px;
-	margin-bottom: 15px;
-}
-.box{
-	width: 350px;
 	justify-content: space-between;
-	box-shadow: 0px 0px 8px 0px;
+}
+.navigation{
+	display: flex;
+	justify-content: space-between;
+}
+.nav-flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: #707070;
+}
+.logo{
+	height: 50px;
+}
+.nav-li{
 	margin-right: 20px;
+	font-size: 20px;
+	/*font-weight: bold;*/
+	color: grey;
 }
-
-.main-title{
-	margin-bottom: 40px;
-	font-size: 40px;
-	color: gray;
+/*.nav-li:last-child{
+	margin-right: 0px;*/
 }
-.picture{
-	width: 350px;
-}
-
-.text{
-	margin-bottom: 10px;
-}
-
